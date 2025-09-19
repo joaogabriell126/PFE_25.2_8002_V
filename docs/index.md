@@ -1,60 +1,29 @@
+# Projeto: Gestão de Monitores IBMEC
+
+# Bem-vindo ao Projeto de Monitores do IBMEC
+
+## Visão Geral
+
+Este projeto tem como objetivo principal desenvolver uma plataforma web eficiente para **facilitar o acompanhamento de processos de contratação**, centralizando a divulgação de vagas e recepção de candidaturas na faculdade IBMEC. A solução busca otimizar a conexão entre alunos e monitores, além de fornecer ferramentas administrativas para a coordenação acadêmica gerenciar o programa de monitoria.
+
+Esta documentação é o recurso central para todos os envolvidos no projeto. Aqui você encontrará detalhes sobre nossa metodologia de trabalho, padrões de código, arquitetura e o progresso geral do desenvolvimento.
+
+## Objetivos do Projeto
+
+- **Simplificar o Cadastro:** Criar um fluxo de inscrição simples e rápido para alunos interessados em se tornarem monitores.
+- **Centralizar Informações:** Oferecer um painel onde alunos possam encontrar facilmente as monitorias disponíveis para cada matéria.
+- **Otimizar a Gestão:** Fornecer uma área administrativa para a coordenação aprovar monitores, gerenciar horários e extrair relatórios.
+
 ---
-hide:
-    - navigation
-    - toc
-    - template: home.html
----
 
-### Grupos
+Navegue pelas seções ao lado para conhecer mais sobre nossa **metodologia** e as **ferramentas** que estamos utilizando.
 
-<div class="grid cards" style="grid-template-columns: repeat(2, 1fr); background: var(--md-default-bg-color);" markdown>
--   :material-github:{ .lg .right } __PFE_25.1_8001_I__
-
-    ---
-
-    Arthur Riess Cunha,	Bernardo Cicchelli,	Caique Rechuan Meirelles, Felipe Maia, João Vitor Rodrigues Donda
-
-    [:octicons-arrow-right-24: Repositório](https://github.com/Projetos-de-Extensao/PFE_25.1_8001_I)
-
--   :material-github:{ .lg .right } __PFE_25.1_8001_II_BetoCuenca__
-
-    ---
-
-    Bernardo Casanovas Linhares, Guilherme Reis Itaborahy Magalhães, Anderson Lima de Araújo Júnior
-
-    [:octicons-arrow-right-24: Repositório](https://github.com/Projetos-de-Extensao/PFE_25.1_8001_II)
-
--   :material-github:{ .lg .right } __PFE_25.1_8001_III__
-
-    ---
-
-    Enzo Zambrotti, João Pedro Ginglass, João Victor de Carvalho Guimarães, Pietro Baldo Albuquerque, Vinícius Marinho Queiroz	
-
-    [:octicons-arrow-right-24: Repositório](https://github.com/Projetos-de-Extensao/PFE_25.1_8001_III)
-
--   :material-github:{ .lg .right } __PFE_25.1_8001_Ingressou__
-
-    ---
-
-    Ana Clara Henrique,	Gabriel Barreto Borges, Keanu Santos Germano, Victor da Conceição, Yago Carvalho de Souza
-
-    [:octicons-arrow-right-24: Repositório](https://github.com/Projetos-de-Extensao/PFE_25.1_8001_IV)
-</div>
-
-!!! warning "Projeto Front-End"
-
-    Disciplina que apresenta os passos para a construção de Projeto Front-End.
-
-    **Linguagens**: HTML, CSS e Javascript
-
-    **Tecnologias**:
-
-    * Visual Studio Code
-    * Github
-
-    As APs deverão ser enviadas no Github e publicadas no github pages.
-
-
-
-
+## Time do Projeto
+| Integrante     | Função  |
+|----------------|-----------------------|
+| Caio Ximenes    | Membro da equipe |
+| Israel Trindade | Membro da equipe |
+| João Gabriel    | Membro da equipe |
+| Marcos Paulo    | Membro da equipe |
+| Micael Dali     | Membro da equipe |
 
