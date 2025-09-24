@@ -1,6 +1,6 @@
 # Configuração do Projeto
 site_name: Projeto Monitores IBMEC
-site_url: https://exemplo.com/
+site_url: https://projetos-de-extensao.github.io/PFE_25.2_8002_V
 site_author: PFE_25.2_8002_V
 site_description: 
   Documentação do projeto de desenvolvimento frontend para a plataforma 
@@ -43,6 +43,11 @@ theme:
 # Estrutura de Navegação (Menu)
 nav:
   - 'Introdução': 'index.md'
+  - 'Concepção do Produto': 
+    - 'Termo de Abertura (5W2H)': 'concepcao/termo-de-abertura.md'
+    - 'Fluxos de Tarefa': 'concepcao/fluxos-de-tarefa.md'
+    - 'Prototipação de Baixo Nível': 'concepcao/prototipacao.md'
+
   - 'Metodologia':
     - 'Nosso Processo': 'metodologia/processo.md'
     - 'Ferramentas': 'metodologia/ferramentas.md'
@@ -56,3 +61,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+plugins:
+  - plantuml:
+      puml_url: https://www.plantuml.com/plantuml/
