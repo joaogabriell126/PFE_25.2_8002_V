@@ -16,9 +16,9 @@ Este projeto se justifica pela necessidade de **modernizar, centralizar e otimiz
 * **Otimizar a Gestão:** Fornecer uma área administrativa para a coordenação aprovar monitores, gerenciar o programa e extrair relatórios de forma eficiente.
 
 ### Critérios de Sucesso (Como saberemos que vencemos?)
-* Redução do tempo gasto pela coordenação com tarefas manuais de gestão em pelo menos 50%.
-* Feedback positivo de, no mínimo, 80% dos alunos e candidatos sobre a facilidade de uso da plataforma.
-* Adoção da plataforma como o único meio oficial para inscrição e consulta de monitores até o final do primeiro semestre de uso.
+* Redução do tempo gasto pela coordenação com tarefas manuais de gestão.
+* Feedback positivo de alunos e candidatos sobre a facilidade de uso da plataforma.
+* Adoção da plataforma como o único meio oficial para inscrição e consulta de monitores.
 
 ---
 
