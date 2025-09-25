@@ -43,14 +43,19 @@ theme:
 # Estrutura de Navegação (Menu)
 nav:
   - 'Introdução': 'index.md'
-  - 'Concepção do Produto': 
-    - 'Termo de Abertura (5W2H)': 'concepcao/termo-de-abertura.md'
+  - 'Design Thinking': 
+    - '5W2H': 'concepcao/5w2h.md'
+    - 'Brainstormig': 'concepcao/brainstorming.md'
+    - 'Mapa Mental': 'concepcao/mapa-mental.md'
     - 'Fluxos de Tarefa': 'concepcao/fluxos-de-tarefa.md'
-    - 'Prototipação de Baixo Nível': 'concepcao/prototipacao.md'
+    - 'Prototipação de Baixa Fidadelidade': 'concepcao/prototipacao.md'
 
   - 'Metodologia':
     - 'Nosso Processo': 'metodologia/processo.md'
     - 'Ferramentas': 'metodologia/ferramentas.md'
+
+  - 'Sprint Planning':
+    - 'Sprint planning': 'sprint-planning/sprint-planning.md'
 
 # Extensões do Markdown
 markdown_extensions:
