@@ -44,11 +44,11 @@ theme:
 nav:
   - 'Introdução': 'index.md'
   - 'Design Thinking': 
-    - '5W2H': 'concepcao/5w2h.md'
-    - 'Brainstormig': 'concepcao/brainstorming.md'
-    - 'Mapa Mental': 'concepcao/mapa-mental.md'
-    - 'Fluxos de Tarefa': 'concepcao/fluxos-de-tarefa.md'
-    - 'Prototipação de Baixa Fidadelidade': 'concepcao/prototipacao.md'
+    - '5W2H': 'escopo/5w2h.md'
+    - 'Brainstormig': 'escopo/brainstorming.md'
+    - 'Mapa Mental': 'escopo/mapa-mental.md'
+    - 'Fluxos de Tarefa': 'escopo/fluxos-de-tarefa.md'
+    - 'Prototipação de Baixa Fidadelidade': 'escopo/prototipacao.md'
 
   - 'Metodologia':
     - 'Nosso Processo': 'metodologia/processo.md'
