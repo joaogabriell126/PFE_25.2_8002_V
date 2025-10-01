@@ -2,7 +2,7 @@
 
 ## Reunião do planejamento de sprints (Planning)
 
-Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "metodologia", a ordem de prioridade das histórias de usuário. Além disso, buscamos organizar de forma superficial onde que deverá ser feito em cada sprint, mantendo uma organização de projeto e, aprensentando ao cliente, o que esperar ao longo do desenvolvimento.
+Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "metodologia", a ordem de prioridade das histórias de usuário. Além disso, buscamos organizar de forma superficial o que deverá ser feito em cada sprint, mantendo uma organização de projeto e, aprensentando ao cliente, o que esperar ao longo do desenvolvimento.
 
 **Ferramenta de comunicação:** Discord.
 
@@ -27,11 +27,8 @@ Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "met
 
 | Tarefas | Responsabilidade |
 | :--- | :--- |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
+| **Tela de Listagem de Vagas do Aluno** | XXXXXX |
+| **Listagem de vagas do professor** | XXXXXX |
 
 ### Sprint Retrospective
 
@@ -59,11 +56,9 @@ Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "met
 
 | Tarefas | Responsabilidade |
 | :--- | :--- |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
+| **Tela de Cadastro do Aluno** | XXXXXX |
+| **Tela de Cadastro do Professor** | XXXXXX |
+| **Tela de Cadastro do Coordenador** | XXXXXX |
 
 ### Sprint Retrospective
 
@@ -91,11 +86,8 @@ Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "met
 
 | Tarefas | Responsabilidade |
 | :--- | :--- |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
+| **Tela de Login do Aluno** | XXXXXX |
+| **Tela de Login do Professor** | XXXXXX |
 
 ### Sprint Retrospective
 
@@ -123,11 +115,9 @@ Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "met
 
 | Tarefas | Responsabilidade |
 | :--- | :--- |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
-| **XXXXXX** | XXXXXX |
+| **Tela de Login do Coordenador** | XXXXXX |
+| **Tela de criação de Vagas** | XXXXXX |
+| **Página de Candidatura** | XXXXXX |
 
 ### Sprint Retrospective
 
@@ -146,4 +136,3 @@ Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "met
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-**Ferramenta de comunicação:** x .
