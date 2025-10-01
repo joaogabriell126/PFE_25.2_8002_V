@@ -55,7 +55,7 @@ Esta é a página principal para o usuário aluno. Ela funciona como um feed, ex
     * Botão "Quero me candidatar!" em cada card, agilizando o processo de inscrição.
     * Opção de navegação para "Minhas candidaturas" no cabeçalho.
 
-![Feed de Vagas (Aluno)](image_22efaf.jpg)
+![Feed de Vagas (Aluno)](0004.jpg)
 
 ---
 
@@ -69,7 +69,7 @@ Este é o painel de controle do professor. Diferente do feed do aluno, ele lista
     * Lista de cards, cada um representando uma vaga publicada.
     * Botões "Editar" e "Remover" em cada card, permitindo a gestão das vagas em tempo real.
 
-![Dashboard (Professor)](image_22efad.jpg)
+![Dashboard (Professor)](0005.jpg)
 
 ---
 
@@ -82,7 +82,7 @@ Esta tela é um formulário simples e direto, destinado ao professor que deseja 
     * Campos para selecionar a disciplina, preencher os requisitos e definir as responsabilidades da vaga.
     * Botão "Criar vaga" para finalizar e publicar a oportunidade.
 
-![Tela de Criação de Vaga](image_22efb2.jpg)
+![Tela de Criação de Vaga](0006.jpg)
 
 ---
 
@@ -96,7 +96,7 @@ Ao clicar em uma vaga no feed, o usuário é direcionado para esta tela, que exi
     * Seções para "Requisitos" e "Responsabilidades" com listas de itens.
     * Botão de ação "Quero me candidatar!".
 
-![Tela de Detalhes da Vaga](image_22f010.jpg)
+![Tela de Detalhes da Vaga](0009.jpg)
 
 ---
 

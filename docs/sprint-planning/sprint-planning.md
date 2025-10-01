@@ -21,7 +21,7 @@ Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "met
 
 
 ## Sprint 1 
-> 25/09/25 
+> Data de início: 25/09/25 
 
 ### Lista de Tarefas da Interação
 
@@ -50,7 +50,7 @@ Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "met
 **Ferramenta de comunicação:** x .
 
 ## Sprint 2
-> 25/09/25 
+> Data de início: 25/09/25 
 
 ### Lista de Tarefas da Interação
 
@@ -80,7 +80,7 @@ Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "met
 **Ferramenta de comunicação:** x .
 
 ## Sprint 3
-> 25/09/25 
+> Data de início: 25/09/25 
 
 ### Lista de Tarefas da Interação
 
@@ -109,7 +109,7 @@ Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "met
 **Ferramenta de comunicação:** x .
 
 ## Sprint 4
-> 25/09/25 
+> Data de início: 25/09/25 
 
 ### Lista de Tarefas da Interação
 

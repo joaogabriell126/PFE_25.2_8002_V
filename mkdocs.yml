@@ -48,7 +48,7 @@ nav:
     - 'Brainstormig': 'escopo/brainstorming.md'
     - 'Mapa Mental': 'escopo/mapa-mental.md'
     - 'Fluxos de Tarefa': 'escopo/fluxos-de-tarefa.md'
-    - 'Prototipação de Baixa Fidadelidade': 'escopo/prototipacao.md'
+    - 'Prototipação de ALta Fidadelidade': 'escopo/prototipacao.md'
 
   - 'Metodologia':
     - 'Nosso Processo': 'metodologia/processo.md'
