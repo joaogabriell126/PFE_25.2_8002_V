@@ -45,7 +45,7 @@ nav:
   - 'Introdução': 'index.md'
   - 'Design Thinking': 
     - '5W2H': 'escopo/5w2h.md'
-    - 'Brainstormig': 'escopo/brainstorming.md'
+    - 'Brainstorming': 'escopo/brainstorming.md'
     - 'Mapa Mental': 'escopo/mapa-mental.md'
     - 'Fluxos de Tarefa': 'escopo/fluxos-de-tarefa.md'
     - 'Prototipação de Alta Fidadelidade': 'escopo/prototipacao.md'

@@ -1,6 +1,8 @@
 ### Prototipação de Alta Fidelidade
 
-Esta seção apresenta os protótipos de alta fidelidade do projeto **Ibvagas**, representando a interface final da aplicação com design, cores, tipografia e layout definidos. Eles oferecem uma visão clara da experiência do usuário e da identidade da plataforma.
+Esta seção apresenta os protótipos de alta fidelidade do projeto **Ibvagas**, representando a interface da aplicação com design, cores, tipografia e layout definidos. Oferencendo uma visão clara da experiência do usuário e da identidade da plataforma.
+
+> Para mais detalhes sobre as escolhas de design clique no link: <a href="https://docs.google.com/document/d/1a_oj0OoJXu7W2TgzwVDV6B78wUVgaFCS6OIAmC3BrUY/edit?usp=sharing" target="_blank" rel="noopener noreferrer">https://docs.google.com/document/d/1a_oj0OoJXu7W2TgzwVDV6B78wUVgaFCS6OIAmC3BrUY/edit?usp=sharing</a>
 
 ---
 
