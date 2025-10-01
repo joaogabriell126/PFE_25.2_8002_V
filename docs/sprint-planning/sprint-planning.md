@@ -34,18 +34,18 @@ Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "met
 
 **Riscos encontrados**
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- *À fazer, sprint ainda não finalizado.*
+- *À fazer, sprint ainda não finalizado.*
 
 **Dúvidas durante a interação**
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- *À fazer, sprint ainda não finalizado.*
+- *À fazer, sprint ainda não finalizado.*
 
 **Pontos positivos durante as tarefas**
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- *À fazer, sprint ainda não finalizado.*
+- *À fazer, sprint ainda não finalizado.*
 
 **Ferramenta de comunicação:** x .
 
@@ -64,18 +64,18 @@ Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "met
 
 **Riscos encontrados**
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- *À fazer, sprint ainda não finalizado.*
+- *À fazer, sprint ainda não finalizado.*
 
 **Dúvidas durante a interação**
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- *À fazer, sprint ainda não finalizado.*
+- *À fazer, sprint ainda não finalizado.*
 
 **Pontos positivos durante as tarefas**
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- *À fazer, sprint ainda não finalizado.*
+- *À fazer, sprint ainda não finalizado.*
 
 **Ferramenta de comunicação:** x .
 
@@ -93,18 +93,18 @@ Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "met
 
 **Riscos encontrados**
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- *À fazer, sprint ainda não finalizado.*
+- *À fazer, sprint ainda não finalizado.*
 
 **Dúvidas durante a interação**
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- *À fazer, sprint ainda não finalizado.*
+- *À fazer, sprint ainda não finalizado.*
 
 **Pontos positivos durante as tarefas**
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- *À fazer, sprint ainda não finalizado.*
+- *À fazer, sprint ainda não finalizado.*
 
 **Ferramenta de comunicação:** x .
 
@@ -123,16 +123,16 @@ Aqui categorizamos, com base nos critérios de "To Do" estabelecidos na aba "met
 
 **Riscos encontrados**
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- *À fazer, sprint ainda não finalizado.*
+- *À fazer, sprint ainda não finalizado.*
 
 **Dúvidas durante a interação**
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- *À fazer, sprint ainda não finalizado.*
+- *À fazer, sprint ainda não finalizado.*
 
 **Pontos positivos durante as tarefas**
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- *À fazer, sprint ainda não finalizado.*
+- *À fazer, sprint ainda não finalizado.*
 

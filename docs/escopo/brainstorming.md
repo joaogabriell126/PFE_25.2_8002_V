@@ -57,6 +57,3 @@ A seguir estão as perguntas que guiaram a sessão e as respostas brutas de cada
 ### **Pergunta 10:** Como o candidato será notificado sobre as atualizações?
 - **João**: Através de uma noticação no email cadastrado.
 - **Micael**: Notificação não só pelo email, mas também pelo próprio aplicativo.
-
-
----

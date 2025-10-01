@@ -36,6 +36,43 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td valign="top">
+      Tela de Login
+
+      ```puml
+      @startsalt
+      title Ibvagas \n <sub>Portal de Monitoria de ibmec</sub>
+
+      {+
+        Login    | "MyName   "
+        Password | "****     "
+        [Cancel] | [  OK   ]
+      }
+
+      @endsalt
+      ```
+    </td>
+
+    <td valign="top">
+      Tela de Cadastro
+
+      ```puml
+            @startsalt
+      title Ibvagas \n <sub>Portal de Monitoria de ibmec</sub>
+
+      {+
+        Login    | "MyName   "
+        Password | "****     "
+        [Cancel] | [  OK   ]
+      }
+
+      @endsalt
+      ```
+    </td>
+  </tr>
+</table>
 
 
 
