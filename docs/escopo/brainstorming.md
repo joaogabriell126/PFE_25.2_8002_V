@@ -46,7 +46,7 @@ A seguir estão as perguntas que guiaram a sessão e as respostas brutas de cada
 
 ### **Pergunta 8:** Como será o processo para cadastrar um novo usuário?
 - **Caio**: O cadastro precisa ser simples. O aluno faz o login usando a conta da própria faculdade, tipo um 'Login com Google', só que da IBMEC.
-- **Israel**: Acho que o aluno poderia fazer uma conta separada do logins institucional. 
+- **Israel**: Acho que o aluno poderia fazer uma conta separada do login institucional, com o próprio email pessoal ou, através de conexões alternativas, como facebook, apple, google, etc. 
 
 ### **Pergunta 9:** Que informações são obrigatórias para uma candidatura?
 - **Caio Xmenes**: Nome Completo, idade.

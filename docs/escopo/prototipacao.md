@@ -13,7 +13,7 @@ Esta é a porta de entrada para a plataforma. O design prioriza a simplicidade e
 * **Propósito**: Autenticar o usuário e direcioná-lo para a área correta (aluno, professor ou coordenador).
 * **Elementos Chave**:
     * Campos de entrada para e-mail/telefone e senha.
-    * Botões para login social, alinhando-se com a sugestão de "Login com Google" discutida no brainstorming.
+    * Botões para login social, alinhando-se com a sugestão discutida no brainstorming.
     * Opção de "Criar nova conta" para usuários que ainda não têm um cadastro.
 
 ![Tela de Login](./assets/0002.jpg)
@@ -22,7 +22,7 @@ Esta é a porta de entrada para a plataforma. O design prioriza a simplicidade e
 
 #### **2. Tela de Cadastro**
 
-O formulário de cadastro foi projetado para ser intuitivo, solicitando apenas as informações essenciais para a criação de uma conta de aluno. O objetivo é reduzir o atrito e simplificar o processo de adesão à plataforma.
+O formulário de cadastro foi projetado para ser intuitivo, solicitando apenas as informações essenciais para a criação de uma conta de aluno. O objetivo é reduzir problemas e simplificar o processo de iniciação com a plataforma.
 
 * **Propósito**: Permitir que novos alunos criem suas contas na plataforma.
 * **Elementos Chave**:
