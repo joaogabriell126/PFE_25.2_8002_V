@@ -31,6 +31,10 @@ if (Qual o perfil do usuário?) then (Aluno)
             :Clicar na vaga para ver detalhes;
             :Ler requisitos e responsabilidades;
             :Clicar em "Quero me candidatar!";
+            :Abrir formulário de cadidatura";
+            :Preencher informações adicionais;
+            :Anexar documentos (opcional);
+            :Confirmar envio da candidatura;
             stop
         else (não)
             :Continuar navegando;

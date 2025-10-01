@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td valign="top">
-      ### Tela de Login
+      Tela de Login
 
       ```puml
       @startsalt
@@ -19,7 +19,7 @@
     </td>
 
     <td valign="top">
-      ### Tela de Cadastro
+      Tela de Cadastro
 
       ```puml
             @startsalt
