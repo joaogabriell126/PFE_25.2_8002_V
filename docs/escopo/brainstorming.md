@@ -52,7 +52,7 @@ A seguir estão as perguntas que guiaram a sessão e as respostas brutas de cada
 - **Caio Xmenes**: Nome Completo, idade.
 - **João**: CR, caixa de texto dizendo por que ela deveria se candidatar e o que motiva ela a ser monitor.
 - **Micael**: Curso atual, nota na matéria, nacionalidade e naturalidade.
-- **Marcos**: Se possui bolsa 
+- **Marcos**: Se possui alguma porcentagem de bolsa. 
 
 ### **Pergunta 10:** Como o candidato será notificado sobre as atualizações?
 - **João**: Através de uma noticação no email cadastrado.
