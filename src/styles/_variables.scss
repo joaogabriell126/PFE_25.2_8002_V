@@ -1,0 +1,64 @@
+// Aqui ficarão as paletas de cores, que seguiremos no uso do projeto
+// Paleta de cores - nomes genericos
+$cor-primaria: #222831;
+$cor-cinza: #393E46;
+$cor-areia: #948979;
+$cor-bege: #DFD0B8;
+$cor-bege-claro: #EADAC2;
+$cor-branca: #FFFFFF;
+$cor-vermelha: #F85A57;
+$cor-vermelha-claro: #F0807E;
+
+
+// --- Cores de Texto ---
+$text-color-primary: $cor-primaria; // Para a maioria dos textos sobre fundos claros
+$text-color-secondary: $cor-cinza; // Para textos de menor importância, placeholders
+$text-color-light: $cor-branca; // Para textos sobre fundos escuros
+
+// --- Cores de Fundo ---
+$background-color-page: $cor-branca;
+$background-color-card: $cor-branca;
+$background-color-dark: $cor-primaria;
+$background-color-input: $cor-branca;
+
+// --- Cores de Botão ---
+// Borão principal
+$button-primary-background: $cor-primaria;
+$button-primary-text: $cor-branca;
+$button-primary-hover: $cor-cinza;
+
+//Botão secundário
+$button-alternative-background: $cor-bege;
+$button-alternative-text: $cor-primaria;
+$button-alternative-hover: $cor-bege-claro;
+
+//Botão de perigo
+$button-danger-background:$cor-vermelha;
+$button-danger-text: $cor-branca;
+$button-danger-hover: $cor-vermelha-claro;
+
+// --- Cores de Formulário ---
+$input-border-color: $cor-primaria;
+$input-text-color: $cor-primaria;
+$input-placeholder-color: $cor-cinza;
+
+// --- Família da Fonte ---
+$font-family-base: 'Roboto', sans-serif;
+
+// --- Tamanhos de Fonte ---
+$font-size-title-lg: 26px; // Títulos grandes como "Vagas"
+$font-size-title-md: 20px; // Títulos médios como "Vagas publicadas recentemente"
+$font-size-body: 16px; // Texto principal, "Texto corrido normal"
+$font-size-small: 12px; // Texto pequeno, como "Digite seu nome completo"
+
+// --- Pesos da Fonte (Font Weights) ---
+$font-weight-light: 300; // Roboto Light
+$font-weight-regular: 400; // Roboto (não especificado, mas é o padrão)
+$font-weight-medium: 500; // Roboto Medium
+$font-weight-semibold: 600; // Roboto SemiBold
+
+
+// TOKENS DE UNIDADES (Espaçamento, Bordas, etc.)
+
+// --- Border Radius (Universal) ---
+$border-radius-base: 10px;
