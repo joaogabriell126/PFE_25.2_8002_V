@@ -1,9 +1,42 @@
 @import "../../../styles/_variables.scss";
 
 .btn {
-  padding: 0.6rem 1.2rem;
-  border: none;
-  background-color: $cor-vermelha;
-  font-weight: 600;
-  cursor: pointer;
+    padding: 0.9rem 6.1rem;
+    border: none;
+    border-radius: $border-radius-base;
+    font-size: $font-size-body;
+    font-weight: $font-weight-light;
+    cursor: pointer;
+
+    &--primary {
+        background-color: $button-primary-background;
+        color: $text-color-light;
+
+        &:hover {
+            background-color: $button-primary-hover;
+        }
+    }
+
+    &--alternative {
+        background-color: $button-alternative-background;
+        color: $text-color-primary;
+
+        &:hover {
+            background-color: $button-alternative-hover;
+        }
+    }
+
+    &--danger {
+        background-color: $button-danger-background;
+        color: $text-color-light;
+
+        &:hover {
+            background-color: $button-danger-hover;
+        }
+    }
+
+     &--small {
+        padding: 0.9rem 3.5rem; // Padding menor
+    }
+
 }
