@@ -35,8 +35,13 @@
         }
     }
 
-     &--small {
-        padding: 0.9rem 3.5rem; // Padding menor
+    &--medium {
+        padding: 0.9rem 2.9rem; // Padding menor
     }
+
+    &--small {
+        padding: 0.9rem 2.6rem; // Padding menor
+    }
+
 
 }

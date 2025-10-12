@@ -1,0 +1,27 @@
+@import "../../../styles/_variables.scss";
+
+.modal {
+    padding: 0.75rem 2.1rem;
+    border-radius: $border-radius-base;
+    border: 1px solid $border-color;
+    color: $text-color-primary;
+    text-align: center;
+    position: fixed;
+    max-width: 22.3rem;
+    //os códigos comentados servem para quando ele for aplicado oficialmente, ainda faltando adicionar um overlay
+    //z-index: 1000;
+    //top: 50%;
+    //left: 50%;
+
+    &__text {
+        color: $text-color-primary;
+        font-size: $font-size-body;
+        margin-bottom: 1.5rem;
+    }
+
+    &__actions {
+        display: flex;
+        justify-content: center;
+        gap: 1.2rem;
+    }
+}
