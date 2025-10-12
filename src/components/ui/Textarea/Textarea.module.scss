@@ -1,0 +1,46 @@
+@import "../../../styles/variables";
+
+/* Bloco BEM */
+.textarea {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    min-width: 22.3rem;
+
+    /* Modificador BEM: aplicado quando há um erro */
+    &.textarea--error {
+
+        // Quando o grupo tem a classe de erro, o label e a borda do input ficam vermelhos
+        .textarea__label {
+            color: $cor-vermelha;
+        }
+
+        .textarea__input {
+            border-color: $cor-vermelha;
+        }
+    }
+}
+
+/* Elemento BEM */
+.textarea__label {
+    font-weight: $font-weight-medium;
+    font-size: $font-size-body;
+    color: $text-color-primary;
+}
+
+/* Elemento BEM */
+.textarea__input {
+    width: 22.3rem; //deixar como min-width futuramente
+    padding: $padding-inputs;
+    border-radius: $border-radius-base;
+    border: 1px solid $border-color;
+    resize: none;
+    font-size: $font-size-body;
+}
+
+/* Elemento BEM */
+.textarea__error {
+    color: $cor-vermelha;
+    font-size: $font-size-body;
+    margin-top: -4px; // Espaçamento negativo para ficar mais perto do input
+}
