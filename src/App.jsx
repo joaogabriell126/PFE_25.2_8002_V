@@ -2,10 +2,12 @@ import Button from './components/ui/Button/Button.jsx';
 import Modal from './components/ui/Modal/Modal.jsx';
 import Textarea from './components/ui/Textarea/Textarea.jsx';
 import PageHeader from './components/Layout/PageHeader/PageHeader.jsx';
+import Input from './components/ui/Input/Input.jsx';
 
   function App() {
     return (
       <div>
+        {/* Aqui estou colocando todoooos os componentes feito para deixar de exemplo */}
         <h1>Exemplos de componentização do botão - Grande</h1>
         <Button variant="primary">Entre Agora</Button>
         <Button variant="alternative">Entre Agora</Button>
@@ -32,6 +34,10 @@ import PageHeader from './components/Layout/PageHeader/PageHeader.jsx';
         />
 
         <PageHeader title='Voltar'></PageHeader>
+
+        <Input  label='Seu email aqui embaixo:' type="mail" placeholder='Digite seu email' id='email' />
+        {/* quando não passado o atributo label, ele nao irá renderiza-lo na páginas */}
+        <Input type="mail" placeholder='Digite seu email' id='email' />
       </div>
     );
   }

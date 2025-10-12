@@ -1,13 +1,11 @@
 @import "../../../styles/variables";
 
-/* Bloco BEM */
 .textarea {
     display: flex;
     flex-direction: column;
     gap: 5px;
     min-width: 22.3rem;
 
-    /* Modificador BEM: aplicado quando há um erro */
     &.textarea--error {
 
         // Quando o grupo tem a classe de erro, o label e a borda do input ficam vermelhos
@@ -21,14 +19,12 @@
     }
 }
 
-/* Elemento BEM */
 .textarea__label {
     font-weight: $font-weight-medium;
     font-size: $font-size-body;
     color: $text-color-primary;
 }
 
-/* Elemento BEM */
 .textarea__input {
     width: 22.3rem; //deixar como min-width futuramente
     padding: $padding-inputs;
@@ -38,7 +34,6 @@
     font-size: $font-size-body;
 }
 
-/* Elemento BEM */
 .textarea__error {
     color: $cor-vermelha;
     font-size: $font-size-body;
