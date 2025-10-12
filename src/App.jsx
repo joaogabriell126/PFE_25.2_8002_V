@@ -1,6 +1,7 @@
 import Button from './components/ui/Button/Button.jsx';
 import Modal from './components/ui/Modal/Modal.jsx';
 import Textarea from './components/ui/Textarea/Textarea.jsx';
+import PageHeader from './components/Layout/PageHeader/PageHeader.jsx';
 
   function App() {
     return (
@@ -29,6 +30,8 @@ import Textarea from './components/ui/Textarea/Textarea.jsx';
           placeholder="Digite sua mensagem aqui..."
           rows={6}
         />
+
+        <PageHeader title='Voltar'></PageHeader>
       </div>
     );
   }

@@ -1,0 +1,31 @@
+@import "../../../styles/variables";
+
+.page-header {
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    background-color: $background-color-dark;
+    position: relative;
+
+    &__back-button {
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+
+        img {
+            width: 50%;
+        }
+    }
+
+    &__title {
+        font-size: $font-size-title-lg;
+        color: $text-color-light;
+        font-weight: $font-weight-medium;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%); 
+
+    }
+
+}
