@@ -2,7 +2,7 @@
 
 .btn {
     padding: 0.9rem 6rem;
-    //height: 45px;
+    min-width: 20.5rem;
     border: none;
     border-radius: $border-radius-base;
     font-size: $font-size-body;
@@ -37,11 +37,13 @@
     }
 
     &--medium {
-        padding: 0.9rem 2.9rem; // Padding menor
+        padding: 0.9rem 2.9rem;
+        min-width: 13rem;
     }
 
     &--small {
-        padding: 0.9rem 2.6rem; // Padding menor
+        padding: 0.9rem 2.6rem;
+        min-width: 10rem;
     }
 
 
